@@ -1,0 +1,5 @@
+C:\Users\nmher\OneDrive\Desktop\Visual Basic\Lab12\Lab12\obj\Debug\Lab12.vbprojAssemblyReference.cache
+C:\Users\nmher\OneDrive\Desktop\Visual Basic\Lab12\Lab12\obj\Debug\Lab12.frmInputOutput.resources
+C:\Users\nmher\OneDrive\Desktop\Visual Basic\Lab12\Lab12\obj\Debug\Lab12.Resources.resources
+C:\Users\nmher\OneDrive\Desktop\Visual Basic\Lab12\Lab12\obj\Debug\Lab12.vbproj.GenerateResource.cache
+C:\Users\nmher\OneDrive\Desktop\Visual Basic\Lab12\Lab12\obj\Debug\Lab12.vbproj.CoreCompileInputs.cache
