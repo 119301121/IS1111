@@ -1,0 +1,15 @@
+C:\College shit\vb shite\yourStyle.vb\yourStyle.vb\bin\Debug\yourStyle.vb.exe.config
+C:\College shit\vb shite\yourStyle.vb\yourStyle.vb\bin\Debug\yourStyle.vb.exe
+C:\College shit\vb shite\yourStyle.vb\yourStyle.vb\bin\Debug\yourStyle.vb.pdb
+C:\College shit\vb shite\yourStyle.vb\yourStyle.vb\bin\Debug\yourStyle.vb.xml
+C:\College shit\vb shite\yourStyle.vb\yourStyle.vb\obj\Debug\yourStyle.vb.vbprojAssemblyReference.cache
+C:\College shit\vb shite\yourStyle.vb\yourStyle.vb\obj\Debug\yourStyle.vb.FrmCustomisation.resources
+C:\College shit\vb shite\yourStyle.vb\yourStyle.vb\obj\Debug\yourStyle.vb.Resources.resources
+C:\College shit\vb shite\yourStyle.vb\yourStyle.vb\obj\Debug\yourStyle.vb.vbproj.GenerateResource.cache
+C:\College shit\vb shite\yourStyle.vb\yourStyle.vb\obj\Debug\yourStyle.vb.vbproj.CoreCompileInputs.cache
+C:\College shit\vb shite\yourStyle.vb\yourStyle.vb\obj\Debug\yourStyle.vb.exe
+C:\College shit\vb shite\yourStyle.vb\yourStyle.vb\obj\Debug\yourStyle.vb.xml
+C:\College shit\vb shite\yourStyle.vb\yourStyle.vb\obj\Debug\yourStyle.vb.pdb
+C:\College shit\vb shite\yourStyle.vb\yourStyle.vb\obj\Debug\yourStyle.vb.FrmYourStyle.resources
+C:\College shit\vb shite\yourStyle.vb\yourStyle.vb\obj\Debug\yourStyle.vb.FrmCustomisationTwo.resources
+C:\College shit\vb shite\yourStyle.vb\yourStyle.vb\obj\Debug\yourStyle.vb.FrmText.resources
